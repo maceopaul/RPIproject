@@ -6,5 +6,5 @@ BJ 게이밍 컴퓨터 견적
 
 비용. 300-500만원
 
-1. CPU - inte/amd
-2. gpu - nvidia / radeon
+1. CPU - intel
+2. gpu - nvidia
